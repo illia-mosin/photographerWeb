@@ -1,0 +1,6 @@
+@media screen and (min-width: 1200px) {
+  @import "variables";
+  @import "mixins";
+  @import "components/components-desktop";
+  @import "sections/sections-desktop";
+}
