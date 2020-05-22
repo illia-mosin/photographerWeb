@@ -1,0 +1,11 @@
+@import "variables";
+@import "mixins";
+@import "components/components-main";
+@import "sections/sections-main";
+.container {
+  min-width: 320px;
+  box-sizing: border-box;
+  padding: 0 10px;
+  margin: 0 auto;
+  width: 100%;
+}

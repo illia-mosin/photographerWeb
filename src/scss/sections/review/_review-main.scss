@@ -1,0 +1,39 @@
+.our-work{
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  background-color: #111;
+}
+.swiper-container {
+  width: 100%;
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+.swiper-slide {
+  object-position: center;
+  object-fit: cover;
+  background-size: cover;
+  background-position: center;
+  width: 300px;
+  height: 300px;
+  background-color: #000;
+  -webkit-box-reflect: below 1px linear-gradient(transparent, transparent, #0006);
+  img {
+    object-position: center;
+    object-fit: cover;
+    background-size: cover;
+    background-position: center;
+    width: 300px;
+    height: 300px;
+  }
+  .swiper-slide-subheader {
+    color: #fff;
+    text-align: center;
+    background-color:  #111;
+    margin: 0 auto;
+    padding-bottom: 25px;
+  }
+}
+

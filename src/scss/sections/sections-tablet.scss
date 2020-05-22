@@ -1,0 +1,8 @@
+@media screen and (min-width: 640px) {
+  @import '#src/scss/sections/navbar/navbar-tablet';
+  @import '#src/scss/sections/header/header-tablet';
+  @import '#src/scss/sections/about us/about-us-tablet';
+  @import '#src/scss/sections/preferens/preferens-tablet';
+  @import '#src/scss/sections/review/review-tablet';
+  @import '#src/scss/sections/location/location-tablet';
+}
